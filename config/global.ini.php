@@ -885,6 +885,7 @@ Plugins[] = Marketplace
 Plugins[] = ProfessionalServices
 Plugins[] = UserId
 Plugins[] = CustomPiwikJs
+Plugins[] = GeoIp2
 
 [PluginsInstalled]
 PluginsInstalled[] = Diagnostics
