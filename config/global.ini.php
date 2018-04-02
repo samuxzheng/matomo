@@ -847,6 +847,7 @@ Plugins[] = Ecommerce
 Plugins[] = SEO
 Plugins[] = Events
 Plugins[] = UserCountry
+Plugins[] = GeoIp2
 Plugins[] = VisitsSummary
 Plugins[] = VisitFrequency
 Plugins[] = VisitTime
@@ -885,7 +886,6 @@ Plugins[] = Marketplace
 Plugins[] = ProfessionalServices
 Plugins[] = UserId
 Plugins[] = CustomPiwikJs
-Plugins[] = GeoIp2
 
 [PluginsInstalled]
 PluginsInstalled[] = Diagnostics
